@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @iamfminsaf
+- 👀 I’m interested in learing tech concepts
+- 🌱 I’m currently learning Node.js and Rect.js
+- 💞️ I’m looking to collaborate on google
+- 😄 Pronouns: He
+- ⚡ Fun fact: I am in commerce stream in my school even I intrested in IT.
